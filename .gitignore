@@ -1,0 +1,9 @@
+*.gpi
+*.sol
+*.plc
+*.cmp
+*.dri
+*.drd
+*.s#?
+*.b#?
+*~
